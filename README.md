@@ -87,11 +87,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadzamir&layout=compact&theme=radical)
 
 
-<br/>
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=hammadzamir&theme=radical)
-
 
 <br/>
 
