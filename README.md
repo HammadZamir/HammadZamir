@@ -80,9 +80,28 @@
 <br/>
 
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div> 
+![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammadzamir&show_icons=true&theme=radical)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadzamir&layout=compact&theme=radical)
+
+
+<br/>
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=hammadzamir&theme=radical)
+
+
+<br/>
+
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hammadzamir&theme=radical)
+
+
+
+ 
 
 
 
