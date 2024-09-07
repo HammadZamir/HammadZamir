@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a Interne at Decimal Solution  
   
 
-- 🌱 I’m currently working on Blogging Website
+- 🌱 I’m currently working on Qureshi Family Project
   
 
 - ❓ Ask me about anything related to MERN stack  
