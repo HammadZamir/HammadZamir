@@ -6,10 +6,10 @@
 ### <div align="center">I'm Hammad, a tech enthusiast MERN stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working as a Interne at Decimal Solution  
+- 🔭 I’m currently working at Decimal Solution  
   
 
-- 🌱 I’m currently working on Qureshi Family Project
+- 🌱 I’m currently working on Decimal Solution Website
   
 
 - ❓ Ask me about anything related to MERN stack  
