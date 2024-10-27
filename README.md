@@ -9,7 +9,7 @@
 - 🔭 I’m currently working at Decimal Solution  
   
 
-- 🌱 I’m currently working on Decimal Solution Website
+- 🌱 I’m currently working on BAV-IT Project
   
 
 - ❓ Ask me about anything related to MERN stack  
