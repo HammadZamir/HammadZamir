@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Hammad%20Zamir&fontSize=80&fontAlign=50&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Decimal%20Solution&descAlign=50&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B35,100:F7931E&height=280&section=header&text=Hammad%20Zamir&fontSize=75&fontAlign=50&fontAlignY=42&desc=MERN%20Stack%20Developer%20%7C%20JavaScript%20Enthusiast&descAlign=50&descAlignY=60&animation=blinking&fontColor=FFFFFF" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%9A%80+Building+the+future+with+code;%F0%9F%8C%9F+MERN+Stack+Developer;%F0%9F%92%A1+Passionate+about+responsive+UIs;%E2%9A%A1+Spaces+over+tabs+forever!;%F0%9F%94%A5+Turning+ideas+into+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=FF6B35&center=true&vCenter=true&multiline=true&width=650&height=100&lines=%E2%9A%A1+Crafting+digital+experiences+with+JavaScript;%F0%9F%8E%AF+Specializing+in+React+%26+Node.js;%F0%9F%92%BB+Building+scalable+web+applications;%F0%9F%9A%80+Always+exploring+new+technologies;%F0%9F%8E%A8+Code+is+my+canvas%2C+logic+is+my+brush" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,29 +24,31 @@
 
 ```javascript
 const hammad = {
-    pronouns: "he" | "him",
-    role: "Full Stack MERN Developer",
-    company: "Decimal Solution",
+    name: "Hammad Zamir",
+    role: "Full Stack Developer",
+    stack: "MERN",
     location: "Islamabad, Pakistan 🇵🇰",
     
-    askMeAbout: [
-        "MERN Stack Development",
-        "React.js & Node.js", 
-        "MongoDB & Express.js",
-        "Responsive Web Design",
-        "Modern JavaScript (ES6+)"
+    expertise: [
+        "React.js Development",
+        "Node.js & Express.js", 
+        "MongoDB Integration",
+        "JavaScript (ES6+)",
+        "Responsive UI Design"
     ],
     
-    currentlyLearning: [
-        "Advanced React Patterns",
-        "TypeScript", 
-        "AWS Cloud Services",
-        "Next.js Framework"
+    currentFocus: [
+        "TypeScript Integration",
+        "Next.js Development", 
+        "Cloud Technologies",
+        "Performance Optimization"
     ],
     
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛",
+    workingStyle: "Clean code enthusiast with attention to detail",
     
-    lifePhilosophy: "Code with passion, learn every day! ☕💻✨"
+    motto: "Every line of code is a step towards innovation! 🚀",
+    
+    whenNotCoding: ["Learning new tech", "Exploring UI/UX trends"]
 };
 ```
 
@@ -57,14 +59,14 @@ const hammad = {
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding"/>
 </div>
 
-**Quick Facts:**
-- 🔭 Working at **Decimal Solution**
-- 🌱 Specializing in **MERN Stack**
-- 💬 Ask me about **React & Node.js**
-- ⚡ Building responsive web applications
-- 🎯 Passionate about clean code
-- 🏆 Always learning new technologies
-- 🤖 Love crafting pixel-perfect UIs
+**Quick Highlights:**
+- 💼 MERN Stack Developer at **Decimal Solution**
+- 🎯 Focused on **React.js & Node.js**
+- 💡 Creating seamless user experiences
+- ⭐ Committed to writing clean, maintainable code
+- 🌟 Passionate about modern web technologies
+- 🎨 Eye for design and functionality balance
+- 🔍 Detail-oriented problem solver
 
 </td>
 </tr>
@@ -167,11 +169,11 @@ const hammad = {
 
 <div align="center" width="100%">
 
-### 🎯 Daily Inspiration
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote"/>
+### 🎯 Daily Motivation
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote"/>
 
-### 🔥 Fun Fact
-**"I build user interfaces by day and debug them by night... with lots of coffee! ☕"**
+### 💡 Personal Mantra
+**"Great user interfaces are born from the perfect blend of functionality and creativity! 🎨💻"**
 
 </div>
 
@@ -185,7 +187,7 @@ const hammad = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlign=50&fontAlignY=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:36D1DC,100:5B86E5&height=100&section=footer&text=Happy%20Coding!%20%F0%9F%9A%80&fontSize=20&fontAlign=50&fontAlignY=65&animation=twinkling&fontColor=FFFFFF" />
 </div>
 
 ---
